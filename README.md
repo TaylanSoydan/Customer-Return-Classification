@@ -1,4 +1,4 @@
-# MDP-Churn-Classification
+# Customer Return Prediction 
 
 Reproducing the pipeline of the following paper with random data:
 
